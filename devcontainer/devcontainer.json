@@ -1,0 +1,7 @@
+{
+  "name": "Praktikum Basis Data",
+  "dockerComposeFile": "docker-compose.yml",
+  "service": "phpmyadmin",
+  "workspaceFolder": "/workspace",
+  "forwardPorts": [8080]
+}
